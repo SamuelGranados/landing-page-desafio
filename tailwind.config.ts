@@ -7,10 +7,10 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    backgroundImage: {
-      'img_bg_hero':  (''),
-    },
     extend: {
+      backgroundImage: {
+        'img_bg_hero':  ('problema'),
+      },
         colors: {
         'primary-blue': '#106EB0',
         'primary-orange': '#EC7000',
